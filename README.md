@@ -1,1 +1,1 @@
-# Laboratorium_ciala_stalego_2015
+# Lab CS
